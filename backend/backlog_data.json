@@ -1,0 +1,82 @@
+{
+  "ultimo_id_juego": 1,
+  "ultimo_id_sesion": 6,
+  "plataformas": [
+    {
+      "id": 1,
+      "nombre": "Steam",
+      "tipo": "steam"
+    },
+    {
+      "id": 2,
+      "nombre": "PC / Descarga Local",
+      "tipo": "local_pc"
+    },
+    {
+      "id": 3,
+      "nombre": "Emulador",
+      "tipo": "emulador"
+    },
+    {
+      "id": 4,
+      "nombre": "Consola",
+      "tipo": "consola"
+    }
+  ],
+  "juegos": [
+    {
+      "id": 1,
+      "titulo": "borderlands",
+      "plataforma_id": 1,
+      "ejecutable": null,
+      "estado": "jugando",
+      "prioridad": 3,
+      "notas_retomar": "hola"
+    }
+  ],
+  "sesiones_juego": [
+    {
+      "id": 1,
+      "juego_id": 1,
+      "duracion_minutos": 60,
+      "fuente": "manual",
+      "notas_sesion": "Sesión manual"
+    },
+    {
+      "id": 2,
+      "juego_id": 1,
+      "duracion_minutos": 60,
+      "fuente": "manual",
+      "notas_sesion": "Sesión manual"
+    },
+    {
+      "id": 3,
+      "juego_id": 1,
+      "duracion_minutos": 30,
+      "fuente": "manual",
+      "notas_sesion": "Sesión manual"
+    },
+    {
+      "id": 4,
+      "juego_id": 1,
+      "duracion_minutos": 60,
+      "fuente": "manual",
+      "notas_sesion": "Sesión manual"
+    },
+    {
+      "id": 5,
+      "juego_id": 1,
+      "duracion_minutos": 60,
+      "fuente": "manual",
+      "notas_sesion": "Sesión manual"
+    },
+    {
+      "id": 6,
+      "juego_id": 1,
+      "duracion_minutos": 60,
+      "fuente": "manual",
+      "notas_sesion": "Sesión manual"
+    }
+  ],
+  "resenas": {}
+}
